@@ -4,14 +4,28 @@
   <url>
     <loc>http://example.com/tags/index.html</loc>
     
-    <lastmod>2021-09-15</lastmod>
+    <lastmod>2021-09-16</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/categories/index.html</loc>
     
-    <lastmod>2021-09-15</lastmod>
+    <lastmod>2021-09-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/index-1.html</loc>
+    
+    <lastmod>2021-09-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/index-1.html</loc>
+    
+    <lastmod>2021-09-16</lastmod>
     
   </url>
   
@@ -25,7 +39,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2021-09-15</lastmod>
+    <lastmod>2021-09-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
