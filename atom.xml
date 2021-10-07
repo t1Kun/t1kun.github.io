@@ -3,11 +3,11 @@
   <title>T1Kun</title>
   
   <subtitle>少年当自强，莫作茧自缚</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://t1kun.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://t1kun.github.io/"/>
   <updated>2021-10-07T12:19:56.480Z</updated>
-  <id>http://example.com/</id>
+  <id>https://t1kun.github.io/</id>
   
   <author>
     <name>T1kun</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://example.com/2021/10/02/hello-world/"/>
-    <id>http://example.com/2021/10/02/hello-world/</id>
+    <link href="https://t1kun.github.io/2021/10/02/hello-world/"/>
+    <id>https://t1kun.github.io/2021/10/02/hello-world/</id>
     <published>2021-10-02T13:01:24.000Z</published>
     <updated>2021-10-07T12:19:56.480Z</updated>
     
@@ -33,10 +33,10 @@
     
     
     
-    <category term="测试" scheme="http://example.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    <category term="测试" scheme="https://t1kun.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
-    <category term="test" scheme="http://example.com/tags/test/"/>
+    <category term="test" scheme="https://t1kun.github.io/tags/test/"/>
     
   </entry>
   

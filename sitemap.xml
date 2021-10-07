@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2021/10/02/hello-world/</loc>
+    <loc>https://t1kun.github.io/2021/10/02/hello-world/</loc>
     
     <lastmod>2021-10-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://t1kun.github.io/about/index.html</loc>
     
     <lastmod>2021-10-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://t1kun.github.io/tags/index.html</loc>
     
     <lastmod>2021-09-16</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://t1kun.github.io/categories/index.html</loc>
     
     <lastmod>2021-09-16</lastmod>
     
@@ -31,7 +31,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://t1kun.github.io/</loc>
     <lastmod>2021-10-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -39,7 +39,7 @@
 
   
   <url>
-    <loc>http://example.com/tags/test/</loc>
+    <loc>https://t1kun.github.io/tags/test/</loc>
     <lastmod>2021-10-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -48,7 +48,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://t1kun.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2021-10-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
